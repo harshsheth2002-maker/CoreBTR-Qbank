@@ -1,0 +1,1990 @@
+[
+ {
+  "test_id": "anatomy_abdomen_pelvis",
+  "title": "Abdomen Pelvis",
+  "num_questions": 32,
+  "total_marks": 128,
+  "duration": 42
+ },
+ {
+  "test_id": "anatomy_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 177,
+  "total_marks": 708,
+  "duration": 187
+ },
+ {
+  "test_id": "anatomy_cadaveric_sections",
+  "title": "Cadaveric Sections",
+  "num_questions": 7,
+  "total_marks": 28,
+  "duration": 17
+ },
+ {
+  "test_id": "anatomy_embryology",
+  "title": "Embryology",
+  "num_questions": 55,
+  "total_marks": 220,
+  "duration": 65
+ },
+ {
+  "test_id": "anatomy_head_neck",
+  "title": "Head Neck",
+  "num_questions": 43,
+  "total_marks": 172,
+  "duration": 53
+ },
+ {
+  "test_id": "anatomy_histology_osteology",
+  "title": "Histology Osteology",
+  "num_questions": 39,
+  "total_marks": 156,
+  "duration": 49
+ },
+ {
+  "test_id": "anatomy_lower_limb",
+  "title": "Lower Limb",
+  "num_questions": 39,
+  "total_marks": 156,
+  "duration": 49
+ },
+ {
+  "test_id": "anatomy_neuroanatomy",
+  "title": "Neuroanatomy",
+  "num_questions": 81,
+  "total_marks": 324,
+  "duration": 91
+ },
+ {
+  "test_id": "anatomy_pyqs",
+  "title": "Pyqs",
+  "num_questions": 172,
+  "total_marks": 688,
+  "duration": 182
+ },
+ {
+  "test_id": "anatomy_thorax",
+  "title": "Thorax",
+  "num_questions": 28,
+  "total_marks": 112,
+  "duration": 38
+ },
+ {
+  "test_id": "anatomy_upper_limb",
+  "title": "Upper Limb",
+  "num_questions": 25,
+  "total_marks": 100,
+  "duration": 35
+ },
+ {
+  "test_id": "anatomy_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 163,
+  "total_marks": 652,
+  "duration": 173
+ },
+ {
+  "test_id": "anesthesia_airway_other_instruments",
+  "title": "Airway Other Instruments",
+  "num_questions": 52,
+  "total_marks": 208,
+  "duration": 62
+ },
+ {
+  "test_id": "anesthesia_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 136,
+  "total_marks": 544,
+  "duration": 146
+ },
+ {
+  "test_id": "anesthesia_bls_acls_nrp",
+  "title": "Bls Acls Nrp",
+  "num_questions": 25,
+  "total_marks": 100,
+  "duration": 35
+ },
+ {
+  "test_id": "anesthesia_mechanical_ventilation",
+  "title": "Mechanical Ventilation",
+  "num_questions": 12,
+  "total_marks": 48,
+  "duration": 22
+ },
+ {
+  "test_id": "anesthesia_pharmacology_in_anaesthesia",
+  "title": "Pharmacology In Anaesthesia",
+  "num_questions": 74,
+  "total_marks": 296,
+  "duration": 84
+ },
+ {
+  "test_id": "anesthesia_pre_op_assessment",
+  "title": "Pre Op Assessment",
+  "num_questions": 29,
+  "total_marks": 116,
+  "duration": 39
+ },
+ {
+  "test_id": "anesthesia_pyqs",
+  "title": "Pyqs",
+  "num_questions": 80,
+  "total_marks": 320,
+  "duration": 90
+ },
+ {
+  "test_id": "anesthesia_regional_anaesthesia_capnography",
+  "title": "Regional Anaesthesia Capnography",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "anesthesia_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 77,
+  "total_marks": 308,
+  "duration": 87
+ },
+ {
+  "test_id": "biochemistry_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 252,
+  "total_marks": 1008,
+  "duration": 262
+ },
+ {
+  "test_id": "biochemistry_basics_of_metabolism",
+  "title": "Basics Of Metabolism",
+  "num_questions": 49,
+  "total_marks": 196,
+  "duration": 59
+ },
+ {
+  "test_id": "biochemistry_carbohydrate_metabolism_disorders",
+  "title": "Carbohydrate Metabolism Disorders",
+  "num_questions": 62,
+  "total_marks": 248,
+  "duration": 72
+ },
+ {
+  "test_id": "biochemistry_enzyme_kinetics",
+  "title": "Enzyme Kinetics",
+  "num_questions": 27,
+  "total_marks": 108,
+  "duration": 37
+ },
+ {
+  "test_id": "biochemistry_lipid_metabolism_disorders",
+  "title": "Lipid Metabolism Disorders",
+  "num_questions": 48,
+  "total_marks": 192,
+  "duration": 58
+ },
+ {
+  "test_id": "biochemistry_minerals",
+  "title": "Minerals",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "biochemistry_molecular_biology",
+  "title": "Molecular Biology",
+  "num_questions": 124,
+  "total_marks": 496,
+  "duration": 134
+ },
+ {
+  "test_id": "biochemistry_protein_metabolism_disorders",
+  "title": "Protein Metabolism Disorders",
+  "num_questions": 53,
+  "total_marks": 212,
+  "duration": 63
+ },
+ {
+  "test_id": "biochemistry_pyqs",
+  "title": "Pyqs",
+  "num_questions": 209,
+  "total_marks": 836,
+  "duration": 219
+ },
+ {
+  "test_id": "biochemistry_vitamins",
+  "title": "Vitamins",
+  "num_questions": 74,
+  "total_marks": 296,
+  "duration": 84
+ },
+ {
+  "test_id": "biochemistry_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 190,
+  "total_marks": 760,
+  "duration": 200
+ },
+ {
+  "test_id": "dermatology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 145,
+  "total_marks": 580,
+  "duration": 155
+ },
+ {
+  "test_id": "dermatology_alopecia",
+  "title": "Alopecia",
+  "num_questions": 18,
+  "total_marks": 72,
+  "duration": 28
+ },
+ {
+  "test_id": "dermatology_basics_of_skin",
+  "title": "Basics Of Skin",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "dermatology_dermatitis_acne",
+  "title": "Dermatitis Acne",
+  "num_questions": 31,
+  "total_marks": 124,
+  "duration": 41
+ },
+ {
+  "test_id": "dermatology_infections_including_leprosy",
+  "title": "Infections Including Leprosy",
+  "num_questions": 78,
+  "total_marks": 312,
+  "duration": 88
+ },
+ {
+  "test_id": "dermatology_miscellaneous",
+  "title": "Miscellaneous",
+  "num_questions": 38,
+  "total_marks": 152,
+  "duration": 48
+ },
+ {
+  "test_id": "dermatology_papulosquamous_disorders",
+  "title": "Papulosquamous Disorders",
+  "num_questions": 23,
+  "total_marks": 92,
+  "duration": 33
+ },
+ {
+  "test_id": "dermatology_pigmentation_disorders",
+  "title": "Pigmentation Disorders",
+  "num_questions": 13,
+  "total_marks": 52,
+  "duration": 23
+ },
+ {
+  "test_id": "dermatology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 163,
+  "total_marks": 652,
+  "duration": 173
+ },
+ {
+  "test_id": "dermatology_skin_malignancies",
+  "title": "Skin Malignancies",
+  "num_questions": 19,
+  "total_marks": 76,
+  "duration": 29
+ },
+ {
+  "test_id": "dermatology_sti",
+  "title": "Sti",
+  "num_questions": 43,
+  "total_marks": 172,
+  "duration": 53
+ },
+ {
+  "test_id": "dermatology_vesiculobullous_disorders",
+  "title": "Vesiculobullous Disorders",
+  "num_questions": 21,
+  "total_marks": 84,
+  "duration": 31
+ },
+ {
+  "test_id": "dermatology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 137,
+  "total_marks": 548,
+  "duration": 147
+ },
+ {
+  "test_id": "endocrine_adrenal_disorders_carcinoid",
+  "title": "Adrenal Disorders Carcinoid",
+  "num_questions": 45,
+  "total_marks": 180,
+  "duration": 55
+ },
+ {
+  "test_id": "endocrine_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 64,
+  "total_marks": 256,
+  "duration": 74
+ },
+ {
+  "test_id": "endocrine_diabetes",
+  "title": "Diabetes",
+  "num_questions": 50,
+  "total_marks": 200,
+  "duration": 60
+ },
+ {
+  "test_id": "endocrine_parathyroid_disorders",
+  "title": "Parathyroid Disorders",
+  "num_questions": 19,
+  "total_marks": 76,
+  "duration": 29
+ },
+ {
+  "test_id": "endocrine_pituitary_disorders",
+  "title": "Pituitary Disorders",
+  "num_questions": 37,
+  "total_marks": 148,
+  "duration": 47
+ },
+ {
+  "test_id": "endocrine_pyqs",
+  "title": "Pyqs",
+  "num_questions": 117,
+  "total_marks": 468,
+  "duration": 127
+ },
+ {
+  "test_id": "endocrine_thyroid_disorders",
+  "title": "Thyroid Disorders",
+  "num_questions": 30,
+  "total_marks": 120,
+  "duration": 40
+ },
+ {
+  "test_id": "endocrine_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 108,
+  "total_marks": 432,
+  "duration": 118
+ },
+ {
+  "test_id": "ent_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 160,
+  "total_marks": 640,
+  "duration": 170
+ },
+ {
+  "test_id": "ent_ear_anatomy",
+  "title": "Ear Anatomy",
+  "num_questions": 22,
+  "total_marks": 88,
+  "duration": 32
+ },
+ {
+  "test_id": "ent_ent_trauma",
+  "title": "Ent Trauma",
+  "num_questions": 10,
+  "total_marks": 40,
+  "duration": 20
+ },
+ {
+  "test_id": "ent_facial_nerve",
+  "title": "Facial Nerve",
+  "num_questions": 12,
+  "total_marks": 48,
+  "duration": 22
+ },
+ {
+  "test_id": "ent_head_neck_spaces",
+  "title": "Head Neck Spaces",
+  "num_questions": 15,
+  "total_marks": 60,
+  "duration": 25
+ },
+ {
+  "test_id": "ent_infections_tonsils",
+  "title": "Infections Tonsils",
+  "num_questions": 14,
+  "total_marks": 56,
+  "duration": 24
+ },
+ {
+  "test_id": "ent_larynx_vocal_cord_palsy",
+  "title": "Larynx Vocal Cord Palsy",
+  "num_questions": 44,
+  "total_marks": 176,
+  "duration": 54
+ },
+ {
+  "test_id": "ent_oral_cavity_salivary_glands",
+  "title": "Oral Cavity Salivary Glands",
+  "num_questions": 23,
+  "total_marks": 92,
+  "duration": 33
+ },
+ {
+  "test_id": "ent_paranasal_sinuses_nose",
+  "title": "Paranasal Sinuses Nose",
+  "num_questions": 61,
+  "total_marks": 244,
+  "duration": 71
+ },
+ {
+  "test_id": "ent_pathologies_of_the_ear",
+  "title": "Pathologies Of The Ear",
+  "num_questions": 105,
+  "total_marks": 420,
+  "duration": 115
+ },
+ {
+  "test_id": "ent_pyqs",
+  "title": "Pyqs",
+  "num_questions": 146,
+  "total_marks": 584,
+  "duration": 156
+ },
+ {
+  "test_id": "ent_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 144,
+  "total_marks": 576,
+  "duration": 154
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 160,
+  "total_marks": 640,
+  "duration": 170
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_asphyxia",
+  "title": "Asphyxia",
+  "num_questions": 16,
+  "total_marks": 64,
+  "duration": 26
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_ballistics",
+  "title": "Ballistics",
+  "num_questions": 14,
+  "total_marks": 56,
+  "duration": 24
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_human_identification",
+  "title": "Human Identification",
+  "num_questions": 31,
+  "total_marks": 124,
+  "duration": 41
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_injuries",
+  "title": "Injuries",
+  "num_questions": 38,
+  "total_marks": 152,
+  "duration": 48
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_medical_law",
+  "title": "Medical Law",
+  "num_questions": 46,
+  "total_marks": 184,
+  "duration": 56
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 161,
+  "total_marks": 644,
+  "duration": 171
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_sexual_offences",
+  "title": "Sexual Offences",
+  "num_questions": 22,
+  "total_marks": 88,
+  "duration": 32
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_thanatology_autopsy",
+  "title": "Thanatology Autopsy",
+  "num_questions": 29,
+  "total_marks": 116,
+  "duration": 39
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_toxicology",
+  "title": "Toxicology",
+  "num_questions": 125,
+  "total_marks": 500,
+  "duration": 135
+ },
+ {
+  "test_id": "forensic_medicine_toxicology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 159,
+  "total_marks": 636,
+  "duration": 169
+ },
+ {
+  "test_id": "general_pathology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 63,
+  "total_marks": 252,
+  "duration": 73
+ },
+ {
+  "test_id": "general_pathology_cell_injury",
+  "title": "Cell Injury",
+  "num_questions": 30,
+  "total_marks": 120,
+  "duration": 40
+ },
+ {
+  "test_id": "general_pathology_miscellaneous_pathology",
+  "title": "Miscellaneous Pathology",
+  "num_questions": 42,
+  "total_marks": 168,
+  "duration": 52
+ },
+ {
+  "test_id": "general_pathology_neoplasia",
+  "title": "Neoplasia",
+  "num_questions": 39,
+  "total_marks": 156,
+  "duration": 49
+ },
+ {
+  "test_id": "general_pathology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 48,
+  "total_marks": 192,
+  "duration": 58
+ },
+ {
+  "test_id": "general_pathology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 53,
+  "total_marks": 212,
+  "duration": 63
+ },
+ {
+  "test_id": "general_pharmacology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 53,
+  "total_marks": 212,
+  "duration": 63
+ },
+ {
+  "test_id": "general_pharmacology_ans",
+  "title": "Ans",
+  "num_questions": 34,
+  "total_marks": 136,
+  "duration": 44
+ },
+ {
+  "test_id": "general_pharmacology_anticancer_drugs",
+  "title": "Anticancer Drugs",
+  "num_questions": 18,
+  "total_marks": 72,
+  "duration": 28
+ },
+ {
+  "test_id": "general_pharmacology_general_pharmacology",
+  "title": "General Pharmacology",
+  "num_questions": 55,
+  "total_marks": 220,
+  "duration": 65
+ },
+ {
+  "test_id": "general_pharmacology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 54,
+  "total_marks": 216,
+  "duration": 64
+ },
+ {
+  "test_id": "general_pharmacology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 53,
+  "total_marks": 212,
+  "duration": 63
+ },
+ {
+  "test_id": "general_physiology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 51,
+  "total_marks": 204,
+  "duration": 61
+ },
+ {
+  "test_id": "general_physiology_basics_of_cell_cytoskeleton",
+  "title": "Basics Of Cell Cytoskeleton",
+  "num_questions": 16,
+  "total_marks": 64,
+  "duration": 26
+ },
+ {
+  "test_id": "general_physiology_body_fluid_compartments",
+  "title": "Body Fluid Compartments",
+  "num_questions": 7,
+  "total_marks": 28,
+  "duration": 17
+ },
+ {
+  "test_id": "general_physiology_exercise_physiology",
+  "title": "Exercise Physiology",
+  "num_questions": 5,
+  "total_marks": 20,
+  "duration": 15
+ },
+ {
+  "test_id": "general_physiology_miscellaneous",
+  "title": "Miscellaneous",
+  "num_questions": 17,
+  "total_marks": 68,
+  "duration": 27
+ },
+ {
+  "test_id": "general_physiology_nerve_muscle_physiology",
+  "title": "Nerve Muscle Physiology",
+  "num_questions": 37,
+  "total_marks": 148,
+  "duration": 47
+ },
+ {
+  "test_id": "general_physiology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 31,
+  "total_marks": 124,
+  "duration": 41
+ },
+ {
+  "test_id": "general_physiology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 38,
+  "total_marks": 152,
+  "duration": 48
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 57,
+  "total_marks": 228,
+  "duration": 67
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_ascites_chronic_diarrhoea",
+  "title": "Ascites Chronic Diarrhoea",
+  "num_questions": 27,
+  "total_marks": 108,
+  "duration": 37
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_gi_pharmacology",
+  "title": "Gi Pharmacology",
+  "num_questions": 21,
+  "total_marks": 84,
+  "duration": 31
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_gi_physiology",
+  "title": "Gi Physiology",
+  "num_questions": 12,
+  "total_marks": 48,
+  "duration": 22
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_ibd",
+  "title": "Ibd",
+  "num_questions": 16,
+  "total_marks": 64,
+  "duration": 26
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_integrated_gi___hpb",
+  "title": "Integrated Gi   Hpb",
+  "num_questions": 1,
+  "total_marks": 4,
+  "duration": 11
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_liver_diseases",
+  "title": "Liver Diseases",
+  "num_questions": 34,
+  "total_marks": 136,
+  "duration": 44
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_polyps_syndromes",
+  "title": "Polyps Syndromes",
+  "num_questions": 11,
+  "total_marks": 44,
+  "duration": 21
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_pyqs",
+  "title": "Pyqs",
+  "num_questions": 89,
+  "total_marks": 356,
+  "duration": 99
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_viral_hepatitis",
+  "title": "Viral Hepatitis",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "gi_hepatobiliary_system_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 50,
+  "total_marks": 200,
+  "duration": 60
+ },
+ {
+  "test_id": "hematology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 100,
+  "total_marks": 400,
+  "duration": 110
+ },
+ {
+  "test_id": "hematology_platelet_coagulation_disorders",
+  "title": "Platelet Coagulation Disorders",
+  "num_questions": 50,
+  "total_marks": 200,
+  "duration": 60
+ },
+ {
+  "test_id": "hematology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 125,
+  "total_marks": 500,
+  "duration": 135
+ },
+ {
+  "test_id": "hematology_rbc_disorders",
+  "title": "Rbc Disorders",
+  "num_questions": 84,
+  "total_marks": 336,
+  "duration": 94
+ },
+ {
+  "test_id": "hematology_transfusion_medicine",
+  "title": "Transfusion Medicine",
+  "num_questions": 22,
+  "total_marks": 88,
+  "duration": 32
+ },
+ {
+  "test_id": "hematology_wbc_disorders",
+  "title": "Wbc Disorders",
+  "num_questions": 69,
+  "total_marks": 276,
+  "duration": 79
+ },
+ {
+  "test_id": "hematology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 107,
+  "total_marks": 428,
+  "duration": 117
+ },
+ {
+  "test_id": "immunology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 44,
+  "total_marks": 176,
+  "duration": 54
+ },
+ {
+  "test_id": "immunology_basics_of_immunology",
+  "title": "Basics Of Immunology",
+  "num_questions": 36,
+  "total_marks": 144,
+  "duration": 46
+ },
+ {
+  "test_id": "immunology_immunodeficiency_disorders",
+  "title": "Immunodeficiency Disorders",
+  "num_questions": 22,
+  "total_marks": 88,
+  "duration": 32
+ },
+ {
+  "test_id": "immunology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "immunology_transplant_immunology",
+  "title": "Transplant Immunology",
+  "num_questions": 10,
+  "total_marks": 40,
+  "duration": 20
+ },
+ {
+  "test_id": "immunology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 41,
+  "total_marks": 164,
+  "duration": 51
+ },
+ {
+  "test_id": "microbiology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 207,
+  "total_marks": 828,
+  "duration": 217
+ },
+ {
+  "test_id": "microbiology_antimicrobials",
+  "title": "Antimicrobials",
+  "num_questions": 25,
+  "total_marks": 100,
+  "duration": 35
+ },
+ {
+  "test_id": "microbiology_bacteriology",
+  "title": "Bacteriology",
+  "num_questions": 139,
+  "total_marks": 556,
+  "duration": 149
+ },
+ {
+  "test_id": "microbiology_general_microbiology_sterilisation",
+  "title": "General Microbiology Sterilisation",
+  "num_questions": 40,
+  "total_marks": 160,
+  "duration": 50
+ },
+ {
+  "test_id": "microbiology_hiv_art",
+  "title": "Hiv Art",
+  "num_questions": 30,
+  "total_marks": 120,
+  "duration": 40
+ },
+ {
+  "test_id": "microbiology_mycology",
+  "title": "Mycology",
+  "num_questions": 63,
+  "total_marks": 252,
+  "duration": 73
+ },
+ {
+  "test_id": "microbiology_parasitology",
+  "title": "Parasitology",
+  "num_questions": 80,
+  "total_marks": 320,
+  "duration": 90
+ },
+ {
+  "test_id": "microbiology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 329,
+  "total_marks": 1316,
+  "duration": 339
+ },
+ {
+  "test_id": "microbiology_tuberculosis_att",
+  "title": "Tuberculosis Att",
+  "num_questions": 29,
+  "total_marks": 116,
+  "duration": 39
+ },
+ {
+  "test_id": "microbiology_vector_borne_diseases",
+  "title": "Vector Borne Diseases",
+  "num_questions": 59,
+  "total_marks": 236,
+  "duration": 69
+ },
+ {
+  "test_id": "microbiology_virology",
+  "title": "Virology",
+  "num_questions": 71,
+  "total_marks": 284,
+  "duration": 81
+ },
+ {
+  "test_id": "microbiology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 229,
+  "total_marks": 916,
+  "duration": 239
+ },
+ {
+  "test_id": "neurology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 97,
+  "total_marks": 388,
+  "duration": 107
+ },
+ {
+  "test_id": "neurology_basal_ganglia_movement_disorders",
+  "title": "Basal Ganglia Movement Disorders",
+  "num_questions": 17,
+  "total_marks": 68,
+  "duration": 27
+ },
+ {
+  "test_id": "neurology_brain_death",
+  "title": "Brain Death",
+  "num_questions": 8,
+  "total_marks": 32,
+  "duration": 18
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_acute_coronary_syndrome_mi",
+  "title": "Acute Coronary Syndrome Mi",
+  "num_questions": 30,
+  "total_marks": 120,
+  "duration": 40
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 134,
+  "total_marks": 536,
+  "duration": 144
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_arrhythmias_ecg",
+  "title": "Arrhythmias Ecg",
+  "num_questions": 74,
+  "total_marks": 296,
+  "duration": 84
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_cardiomyopathy_arf",
+  "title": "Cardiomyopathy Arf",
+  "num_questions": 30,
+  "total_marks": 120,
+  "duration": 40
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_chf",
+  "title": "Chf",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_cvs_graphs_physiology",
+  "title": "Cvs Graphs Physiology",
+  "num_questions": 37,
+  "total_marks": 148,
+  "duration": 47
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_dyslipidaemia",
+  "title": "Dyslipidaemia",
+  "num_questions": 12,
+  "total_marks": 48,
+  "duration": 22
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_heart_sounds_murmurs",
+  "title": "Heart Sounds Murmurs",
+  "num_questions": 35,
+  "total_marks": 140,
+  "duration": 45
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_hypertension",
+  "title": "Hypertension",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_jvp_pulse",
+  "title": "Jvp Pulse",
+  "num_questions": 18,
+  "total_marks": 72,
+  "duration": 28
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_pyqs",
+  "title": "Pyqs",
+  "num_questions": 150,
+  "total_marks": 600,
+  "duration": 160
+ },
+ {
+  "test_id": "neurology_cardiovascular_system_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 110,
+  "total_marks": 440,
+  "duration": 120
+ },
+ {
+  "test_id": "neurology_dementia_headache",
+  "title": "Dementia Headache",
+  "num_questions": 38,
+  "total_marks": 152,
+  "duration": 48
+ },
+ {
+  "test_id": "neurology_hypothalamus_thalamus_memory",
+  "title": "Hypothalamus Thalamus Memory",
+  "num_questions": 16,
+  "total_marks": 64,
+  "duration": 26
+ },
+ {
+  "test_id": "neurology_meningitis_demyelinating_disorders",
+  "title": "Meningitis Demyelinating Disorders",
+  "num_questions": 32,
+  "total_marks": 128,
+  "duration": 42
+ },
+ {
+  "test_id": "neurology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 127,
+  "total_marks": 508,
+  "duration": 137
+ },
+ {
+  "test_id": "neurology_seizures",
+  "title": "Seizures",
+  "num_questions": 38,
+  "total_marks": 152,
+  "duration": 48
+ },
+ {
+  "test_id": "neurology_sensory_receptors_nerve_fibres",
+  "title": "Sensory Receptors Nerve Fibres",
+  "num_questions": 12,
+  "total_marks": 48,
+  "duration": 22
+ },
+ {
+  "test_id": "neurology_spinal_cord_lesions",
+  "title": "Spinal Cord Lesions",
+  "num_questions": 29,
+  "total_marks": 116,
+  "duration": 39
+ },
+ {
+  "test_id": "neurology_stroke",
+  "title": "Stroke",
+  "num_questions": 34,
+  "total_marks": 136,
+  "duration": 44
+ },
+ {
+  "test_id": "neurology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 112,
+  "total_marks": 448,
+  "duration": 122
+ },
+ {
+  "test_id": "obstetrics_gynaecology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 324,
+  "total_marks": 1296,
+  "duration": 334
+ },
+ {
+  "test_id": "obstetrics_gynaecology_amenorrhoea_dsd",
+  "title": "Amenorrhoea Dsd",
+  "num_questions": 49,
+  "total_marks": 196,
+  "duration": 59
+ },
+ {
+  "test_id": "obstetrics_gynaecology_anatomy_prolapse",
+  "title": "Anatomy Prolapse",
+  "num_questions": 40,
+  "total_marks": 160,
+  "duration": 50
+ },
+ {
+  "test_id": "obstetrics_gynaecology_aub",
+  "title": "Aub",
+  "num_questions": 38,
+  "total_marks": 152,
+  "duration": 48
+ },
+ {
+  "test_id": "obstetrics_gynaecology_basics_of_obstetrics",
+  "title": "Basics Of Obstetrics",
+  "num_questions": 85,
+  "total_marks": 340,
+  "duration": 95
+ },
+ {
+  "test_id": "obstetrics_gynaecology_contraception",
+  "title": "Contraception",
+  "num_questions": 64,
+  "total_marks": 256,
+  "duration": 74
+ },
+ {
+  "test_id": "obstetrics_gynaecology_early_pregnancy_complications",
+  "title": "Early Pregnancy Complications",
+  "num_questions": 53,
+  "total_marks": 212,
+  "duration": 63
+ },
+ {
+  "test_id": "obstetrics_gynaecology_endometriosis_pcos",
+  "title": "Endometriosis Pcos",
+  "num_questions": 30,
+  "total_marks": 120,
+  "duration": 40
+ },
+ {
+  "test_id": "obstetrics_gynaecology_foetal_monitoring",
+  "title": "Foetal Monitoring",
+  "num_questions": 20,
+  "total_marks": 80,
+  "duration": 30
+ },
+ {
+  "test_id": "obstetrics_gynaecology_gynaecological_oncology",
+  "title": "Gynaecological Oncology",
+  "num_questions": 83,
+  "total_marks": 332,
+  "duration": 93
+ },
+ {
+  "test_id": "obstetrics_gynaecology_iugr",
+  "title": "Iugr",
+  "num_questions": 11,
+  "total_marks": 44,
+  "duration": 21
+ },
+ {
+  "test_id": "obstetrics_gynaecology_labour_its_complications",
+  "title": "Labour Its Complications",
+  "num_questions": 114,
+  "total_marks": 456,
+  "duration": 124
+ },
+ {
+  "test_id": "obstetrics_gynaecology_medical_diseases_in_pregnancy",
+  "title": "Medical Diseases In Pregnancy",
+  "num_questions": 76,
+  "total_marks": 304,
+  "duration": 86
+ },
+ {
+  "test_id": "obstetrics_gynaecology_menstrual_physiology",
+  "title": "Menstrual Physiology",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "obstetrics_gynaecology_m_llerian_anomalies_infertility",
+  "title": "Müllerian Anomalies Infertility",
+  "num_questions": 42,
+  "total_marks": 168,
+  "duration": 52
+ },
+ {
+  "test_id": "obstetrics_gynaecology_pelvis_skull",
+  "title": "Pelvis Skull",
+  "num_questions": 16,
+  "total_marks": 64,
+  "duration": 26
+ },
+ {
+  "test_id": "obstetrics_gynaecology_placenta_antepartum_haemorrhage",
+  "title": "Placenta Antepartum Haemorrhage",
+  "num_questions": 26,
+  "total_marks": 104,
+  "duration": 36
+ },
+ {
+  "test_id": "obstetrics_gynaecology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 490,
+  "total_marks": 1960,
+  "duration": 500
+ },
+ {
+  "test_id": "obstetrics_gynaecology_rh_isoimmunisation",
+  "title": "Rh Isoimmunisation",
+  "num_questions": 11,
+  "total_marks": 44,
+  "duration": 21
+ },
+ {
+  "test_id": "obstetrics_gynaecology_twin_pregnancy",
+  "title": "Twin Pregnancy",
+  "num_questions": 20,
+  "total_marks": 80,
+  "duration": 30
+ },
+ {
+  "test_id": "obstetrics_gynaecology_urogynaecology",
+  "title": "Urogynaecology",
+  "num_questions": 12,
+  "total_marks": 48,
+  "duration": 22
+ },
+ {
+  "test_id": "obstetrics_gynaecology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 333,
+  "total_marks": 1332,
+  "duration": 343
+ },
+ {
+  "test_id": "ophthalmology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 163,
+  "total_marks": 652,
+  "duration": 173
+ },
+ {
+  "test_id": "ophthalmology_conjunctiva_orbit",
+  "title": "Conjunctiva Orbit",
+  "num_questions": 45,
+  "total_marks": 180,
+  "duration": 55
+ },
+ {
+  "test_id": "ophthalmology_cornea_sclera",
+  "title": "Cornea Sclera",
+  "num_questions": 45,
+  "total_marks": 180,
+  "duration": 55
+ },
+ {
+  "test_id": "ophthalmology_glaucoma",
+  "title": "Glaucoma",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "ophthalmology_lens_cataract",
+  "title": "Lens Cataract",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "ophthalmology_neuro_ophthalmology",
+  "title": "Neuro Ophthalmology",
+  "num_questions": 40,
+  "total_marks": 160,
+  "duration": 50
+ },
+ {
+  "test_id": "ophthalmology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 125,
+  "total_marks": 500,
+  "duration": 135
+ },
+ {
+  "test_id": "ophthalmology_refractive_errors",
+  "title": "Refractive Errors",
+  "num_questions": 27,
+  "total_marks": 108,
+  "duration": 37
+ },
+ {
+  "test_id": "ophthalmology_retina",
+  "title": "Retina",
+  "num_questions": 65,
+  "total_marks": 260,
+  "duration": 75
+ },
+ {
+  "test_id": "ophthalmology_squint",
+  "title": "Squint",
+  "num_questions": 8,
+  "total_marks": 32,
+  "duration": 18
+ },
+ {
+  "test_id": "ophthalmology_uveitis",
+  "title": "Uveitis",
+  "num_questions": 10,
+  "total_marks": 40,
+  "duration": 20
+ },
+ {
+  "test_id": "ophthalmology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 135,
+  "total_marks": 540,
+  "duration": 145
+ },
+ {
+  "test_id": "orthopedics_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 104,
+  "total_marks": 416,
+  "duration": 114
+ },
+ {
+  "test_id": "orthopedics_bone_infections",
+  "title": "Bone Infections",
+  "num_questions": 11,
+  "total_marks": 44,
+  "duration": 21
+ },
+ {
+  "test_id": "orthopedics_bone_tumours",
+  "title": "Bone Tumours",
+  "num_questions": 23,
+  "total_marks": 92,
+  "duration": 33
+ },
+ {
+  "test_id": "orthopedics_clinical_tests",
+  "title": "Clinical Tests",
+  "num_questions": 17,
+  "total_marks": 68,
+  "duration": 27
+ },
+ {
+  "test_id": "orthopedics_fractures",
+  "title": "Fractures",
+  "num_questions": 56,
+  "total_marks": 224,
+  "duration": 66
+ },
+ {
+  "test_id": "orthopedics_metabolic_bone_diseases",
+  "title": "Metabolic Bone Diseases",
+  "num_questions": 23,
+  "total_marks": 92,
+  "duration": 33
+ },
+ {
+  "test_id": "orthopedics_miscellaneous",
+  "title": "Miscellaneous",
+  "num_questions": 22,
+  "total_marks": 88,
+  "duration": 32
+ },
+ {
+  "test_id": "orthopedics_nerve_injuries",
+  "title": "Nerve Injuries",
+  "num_questions": 32,
+  "total_marks": 128,
+  "duration": 42
+ },
+ {
+  "test_id": "orthopedics_paediatric_orthopaedics",
+  "title": "Paediatric Orthopaedics",
+  "num_questions": 20,
+  "total_marks": 80,
+  "duration": 30
+ },
+ {
+  "test_id": "orthopedics_pyqs",
+  "title": "Pyqs",
+  "num_questions": 121,
+  "total_marks": 484,
+  "duration": 131
+ },
+ {
+  "test_id": "orthopedics_spine_pathologies_scoliosis",
+  "title": "Spine Pathologies Scoliosis",
+  "num_questions": 21,
+  "total_marks": 84,
+  "duration": 31
+ },
+ {
+  "test_id": "orthopedics_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 118,
+  "total_marks": 472,
+  "duration": 128
+ },
+ {
+  "test_id": "pediatrics_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 186,
+  "total_marks": 744,
+  "duration": 196
+ },
+ {
+  "test_id": "pediatrics_congenital_heart_diseases",
+  "title": "Congenital Heart Diseases",
+  "num_questions": 26,
+  "total_marks": 104,
+  "duration": 36
+ },
+ {
+  "test_id": "pediatrics_cystic_fibrosis_pneumonia",
+  "title": "Cystic Fibrosis Pneumonia",
+  "num_questions": 26,
+  "total_marks": 104,
+  "duration": 36
+ },
+ {
+  "test_id": "pediatrics_developmental_milestones",
+  "title": "Developmental Milestones",
+  "num_questions": 32,
+  "total_marks": 128,
+  "duration": 42
+ },
+ {
+  "test_id": "pediatrics_genetics",
+  "title": "Genetics",
+  "num_questions": 43,
+  "total_marks": 172,
+  "duration": 53
+ },
+ {
+  "test_id": "pediatrics_growth_nutrition",
+  "title": "Growth Nutrition",
+  "num_questions": 57,
+  "total_marks": 228,
+  "duration": 67
+ },
+ {
+  "test_id": "pediatrics_miscellaneous",
+  "title": "Miscellaneous",
+  "num_questions": 62,
+  "total_marks": 248,
+  "duration": 72
+ },
+ {
+  "test_id": "pediatrics_neonatology",
+  "title": "Neonatology",
+  "num_questions": 104,
+  "total_marks": 416,
+  "duration": 114
+ },
+ {
+  "test_id": "pediatrics_paediatric_gi_disorders",
+  "title": "Paediatric Gi Disorders",
+  "num_questions": 41,
+  "total_marks": 164,
+  "duration": 51
+ },
+ {
+  "test_id": "pediatrics_pyqs",
+  "title": "Pyqs",
+  "num_questions": 205,
+  "total_marks": 820,
+  "duration": 215
+ },
+ {
+  "test_id": "pediatrics_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 155,
+  "total_marks": 620,
+  "duration": 165
+ },
+ {
+  "test_id": "preventive_social_medicine_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 294,
+  "total_marks": 1176,
+  "duration": 304
+ },
+ {
+  "test_id": "preventive_social_medicine_biostatistics",
+  "title": "Biostatistics",
+  "num_questions": 1,
+  "total_marks": 4,
+  "duration": 11
+ },
+ {
+  "test_id": "preventive_social_medicine_demography",
+  "title": "Demography",
+  "num_questions": 60,
+  "total_marks": 240,
+  "duration": 70
+ },
+ {
+  "test_id": "preventive_social_medicine_environment",
+  "title": "Environment",
+  "num_questions": 57,
+  "total_marks": 228,
+  "duration": 67
+ },
+ {
+  "test_id": "preventive_social_medicine_epidemiology",
+  "title": "Epidemiology",
+  "num_questions": 159,
+  "total_marks": 636,
+  "duration": 169
+ },
+ {
+  "test_id": "preventive_social_medicine_health_programmes",
+  "title": "Health Programmes",
+  "num_questions": 95,
+  "total_marks": 380,
+  "duration": 105
+ },
+ {
+  "test_id": "preventive_social_medicine_miscellaneous",
+  "title": "Miscellaneous",
+  "num_questions": 55,
+  "total_marks": 220,
+  "duration": 65
+ },
+ {
+  "test_id": "preventive_social_medicine_nutrition",
+  "title": "Nutrition",
+  "num_questions": 43,
+  "total_marks": 172,
+  "duration": 53
+ },
+ {
+  "test_id": "preventive_social_medicine_pyqs",
+  "title": "Pyqs",
+  "num_questions": 371,
+  "total_marks": 1484,
+  "duration": 381
+ },
+ {
+  "test_id": "preventive_social_medicine_vaccines",
+  "title": "Vaccines",
+  "num_questions": 3,
+  "total_marks": 12,
+  "duration": 13
+ },
+ {
+  "test_id": "preventive_social_medicine_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 146,
+  "total_marks": 584,
+  "duration": 156
+ },
+ {
+  "test_id": "psychiatry_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 150,
+  "total_marks": 600,
+  "duration": 160
+ },
+ {
+  "test_id": "psychiatry_anxiety_related_disorders",
+  "title": "Anxiety Related Disorders",
+  "num_questions": 33,
+  "total_marks": 132,
+  "duration": 43
+ },
+ {
+  "test_id": "psychiatry_basics_of_psychiatry",
+  "title": "Basics Of Psychiatry",
+  "num_questions": 49,
+  "total_marks": 196,
+  "duration": 59
+ },
+ {
+  "test_id": "psychiatry_childhood_psychiatry",
+  "title": "Childhood Psychiatry",
+  "num_questions": 31,
+  "total_marks": 124,
+  "duration": 41
+ },
+ {
+  "test_id": "psychiatry_miscellaneous",
+  "title": "Miscellaneous",
+  "num_questions": 33,
+  "total_marks": 132,
+  "duration": 43
+ },
+ {
+  "test_id": "psychiatry_mood_disorders_antidepressants",
+  "title": "Mood Disorders Antidepressants",
+  "num_questions": 56,
+  "total_marks": 224,
+  "duration": 66
+ },
+ {
+  "test_id": "psychiatry_psychotic_disorders_antipsychotics",
+  "title": "Psychotic Disorders Antipsychotics",
+  "num_questions": 44,
+  "total_marks": 176,
+  "duration": 54
+ },
+ {
+  "test_id": "psychiatry_pyqs",
+  "title": "Pyqs",
+  "num_questions": 108,
+  "total_marks": 432,
+  "duration": 118
+ },
+ {
+  "test_id": "psychiatry_sleep_related_disorders",
+  "title": "Sleep Related Disorders",
+  "num_questions": 12,
+  "total_marks": 48,
+  "duration": 22
+ },
+ {
+  "test_id": "psychiatry_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 98,
+  "total_marks": 392,
+  "duration": 108
+ },
+ {
+  "test_id": "radiology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 106,
+  "total_marks": 424,
+  "duration": 116
+ },
+ {
+  "test_id": "radiology_general_radiology",
+  "title": "General Radiology",
+  "num_questions": 39,
+  "total_marks": 156,
+  "duration": 49
+ },
+ {
+  "test_id": "radiology_gi_hbp_radiology",
+  "title": "Gi Hbp Radiology",
+  "num_questions": 40,
+  "total_marks": 160,
+  "duration": 50
+ },
+ {
+  "test_id": "radiology_gu_radiology",
+  "title": "Gu Radiology",
+  "num_questions": 26,
+  "total_marks": 104,
+  "duration": 36
+ },
+ {
+  "test_id": "radiology_neuroradiology",
+  "title": "Neuroradiology",
+  "num_questions": 49,
+  "total_marks": 196,
+  "duration": 59
+ },
+ {
+  "test_id": "radiology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 128,
+  "total_marks": 512,
+  "duration": 138
+ },
+ {
+  "test_id": "radiology_radiotherapy_nuclear_medicine",
+  "title": "Radiotherapy Nuclear Medicine",
+  "num_questions": 33,
+  "total_marks": 132,
+  "duration": 43
+ },
+ {
+  "test_id": "radiology_thoracic_radiology",
+  "title": "Thoracic Radiology",
+  "num_questions": 47,
+  "total_marks": 188,
+  "duration": 57
+ },
+ {
+  "test_id": "radiology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 103,
+  "total_marks": 412,
+  "duration": 113
+ },
+ {
+  "test_id": "renal_electrolytes_acid_base_electrolyte_disturbances",
+  "title": "Acid Base Electrolyte Disturbances",
+  "num_questions": 45,
+  "total_marks": 180,
+  "duration": 55
+ },
+ {
+  "test_id": "renal_electrolytes_aki_ckd",
+  "title": "Aki Ckd",
+  "num_questions": 29,
+  "total_marks": 116,
+  "duration": 39
+ },
+ {
+  "test_id": "renal_electrolytes_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 78,
+  "total_marks": 312,
+  "duration": 88
+ },
+ {
+  "test_id": "renal_electrolytes_glomerular_diseases",
+  "title": "Glomerular Diseases",
+  "num_questions": 33,
+  "total_marks": 132,
+  "duration": 43
+ },
+ {
+  "test_id": "renal_electrolytes_pyqs",
+  "title": "Pyqs",
+  "num_questions": 98,
+  "total_marks": 392,
+  "duration": 108
+ },
+ {
+  "test_id": "renal_electrolytes_renal_physiology_graphs",
+  "title": "Renal Physiology Graphs",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "renal_electrolytes_renal_tubules_diuretics_tubular_disorders",
+  "title": "Renal Tubules Diuretics Tubular Disorders",
+  "num_questions": 45,
+  "total_marks": 180,
+  "duration": 55
+ },
+ {
+  "test_id": "renal_electrolytes_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 78,
+  "total_marks": 312,
+  "duration": 88
+ },
+ {
+  "test_id": "respiratory_system_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 78,
+  "total_marks": 312,
+  "duration": 88
+ },
+ {
+  "test_id": "respiratory_system_ards",
+  "title": "Ards",
+  "num_questions": 10,
+  "total_marks": 40,
+  "duration": 20
+ },
+ {
+  "test_id": "respiratory_system_asthma_copd",
+  "title": "Asthma Copd",
+  "num_questions": 43,
+  "total_marks": 172,
+  "duration": 53
+ },
+ {
+  "test_id": "respiratory_system_carcinoma_lung",
+  "title": "Carcinoma Lung",
+  "num_questions": 15,
+  "total_marks": 60,
+  "duration": 25
+ },
+ {
+  "test_id": "respiratory_system_chest_infections",
+  "title": "Chest Infections",
+  "num_questions": 19,
+  "total_marks": 76,
+  "duration": 29
+ },
+ {
+  "test_id": "respiratory_system_ild",
+  "title": "Ild",
+  "num_questions": 20,
+  "total_marks": 80,
+  "duration": 30
+ },
+ {
+  "test_id": "respiratory_system_pleural_effusion_pulmonary_embolism_pah",
+  "title": "Pleural Effusion Pulmonary Embolism Pah",
+  "num_questions": 27,
+  "total_marks": 108,
+  "duration": 37
+ },
+ {
+  "test_id": "respiratory_system_pyqs",
+  "title": "Pyqs",
+  "num_questions": 100,
+  "total_marks": 400,
+  "duration": 110
+ },
+ {
+  "test_id": "respiratory_system_respiratory_physiology_spirometry",
+  "title": "Respiratory Physiology Spirometry",
+  "num_questions": 44,
+  "total_marks": 176,
+  "duration": 54
+ },
+ {
+  "test_id": "respiratory_system_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 93,
+  "total_marks": 372,
+  "duration": 103
+ },
+ {
+  "test_id": "rheumatology_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 59,
+  "total_marks": 236,
+  "duration": 69
+ },
+ {
+  "test_id": "rheumatology_arthritis",
+  "title": "Arthritis",
+  "num_questions": 53,
+  "total_marks": 212,
+  "duration": 63
+ },
+ {
+  "test_id": "rheumatology_connective_tissue_diseases",
+  "title": "Connective Tissue Diseases",
+  "num_questions": 28,
+  "total_marks": 112,
+  "duration": 38
+ },
+ {
+  "test_id": "rheumatology_miscellaneous",
+  "title": "Miscellaneous",
+  "num_questions": 4,
+  "total_marks": 16,
+  "duration": 14
+ },
+ {
+  "test_id": "rheumatology_myopathy",
+  "title": "Myopathy",
+  "num_questions": 5,
+  "total_marks": 20,
+  "duration": 15
+ },
+ {
+  "test_id": "rheumatology_pyqs",
+  "title": "Pyqs",
+  "num_questions": 55,
+  "total_marks": 220,
+  "duration": 65
+ },
+ {
+  "test_id": "rheumatology_vasculitis",
+  "title": "Vasculitis",
+  "num_questions": 24,
+  "total_marks": 96,
+  "duration": 34
+ },
+ {
+  "test_id": "rheumatology_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 55,
+  "total_marks": 220,
+  "duration": 65
+ },
+ {
+  "test_id": "surgery_all_qbank_qs_excluding_pyqs",
+  "title": "All Qbank Qs Excluding Pyqs",
+  "num_questions": 243,
+  "total_marks": 972,
+  "duration": 253
+ },
+ {
+  "test_id": "surgery_breast",
+  "title": "Breast",
+  "num_questions": 49,
+  "total_marks": 196,
+  "duration": 59
+ },
+ {
+  "test_id": "surgery_general_surgery",
+  "title": "General Surgery",
+  "num_questions": 71,
+  "total_marks": 284,
+  "duration": 81
+ },
+ {
+  "test_id": "surgery_gi_surgery",
+  "title": "Gi Surgery",
+  "num_questions": 127,
+  "total_marks": 508,
+  "duration": 137
+ },
+ {
+  "test_id": "surgery_hepatobiliary_surgery",
+  "title": "Hepatobiliary Surgery",
+  "num_questions": 60,
+  "total_marks": 240,
+  "duration": 70
+ },
+ {
+  "test_id": "surgery_hernia",
+  "title": "Hernia",
+  "num_questions": 36,
+  "total_marks": 144,
+  "duration": 46
+ },
+ {
+  "test_id": "surgery_pancreas",
+  "title": "Pancreas",
+  "num_questions": 39,
+  "total_marks": 156,
+  "duration": 49
+ },
+ {
+  "test_id": "surgery_pyqs",
+  "title": "Pyqs",
+  "num_questions": 478,
+  "total_marks": 1912,
+  "duration": 488
+ },
+ {
+  "test_id": "surgery_thyroid_parathyroid",
+  "title": "Thyroid Parathyroid",
+  "num_questions": 54,
+  "total_marks": 216,
+  "duration": 64
+ },
+ {
+  "test_id": "surgery_transplant_surgery",
+  "title": "Transplant Surgery",
+  "num_questions": 25,
+  "total_marks": 100,
+  "duration": 35
+ },
+ {
+  "test_id": "surgery_trauma_burns",
+  "title": "Trauma Burns",
+  "num_questions": 119,
+  "total_marks": 476,
+  "duration": 129
+ },
+ {
+  "test_id": "surgery_urology",
+  "title": "Urology",
+  "num_questions": 72,
+  "total_marks": 288,
+  "duration": 82
+ },
+ {
+  "test_id": "surgery_vascular_surgery",
+  "title": "Vascular Surgery",
+  "num_questions": 38,
+  "total_marks": 152,
+  "duration": 48
+ },
+ {
+  "test_id": "surgery_wounds_grafts",
+  "title": "Wounds Grafts",
+  "num_questions": 31,
+  "total_marks": 124,
+  "duration": 41
+ },
+ {
+  "test_id": "surgery_zvrecommended_qs",
+  "title": "Zvrecommended Qs",
+  "num_questions": 266,
+  "total_marks": 1064,
+  "duration": 276
+ }
+]

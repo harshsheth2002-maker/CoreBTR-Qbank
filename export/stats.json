@@ -1,0 +1,110 @@
+{
+ "tests": 284,
+ "questions": 19137,
+ "declared_num_questions_sum": 19137,
+ "questions_with_video_solution": 9588,
+ "questions_with_images": 4005,
+ "questions_with_explanation": 19137,
+ "distinct_image_urls": 2442,
+ "subjects": {
+  "obstetrics": {
+   "tests": 22,
+   "questions": 1961
+  },
+  "surgery": {
+   "tests": 15,
+   "questions": 1708
+  },
+  "microbiology": {
+   "tests": 12,
+   "questions": 1301
+  },
+  "preventive": {
+   "tests": 11,
+   "questions": 1284
+  },
+  "neurology": {
+   "tests": 24,
+   "questions": 1238
+  },
+  "biochemistry": {
+   "tests": 11,
+   "questions": 1112
+  },
+  "pediatrics": {
+   "tests": 11,
+   "questions": 937
+  },
+  "anatomy": {
+   "tests": 12,
+   "questions": 861
+  },
+  "forensic": {
+   "tests": 11,
+   "questions": 801
+  },
+  "ent": {
+   "tests": 12,
+   "questions": 756
+  },
+  "dermatology": {
+   "tests": 13,
+   "questions": 753
+  },
+  "general": {
+   "tests": 20,
+   "questions": 744
+  },
+  "ophthalmology": {
+   "tests": 12,
+   "questions": 711
+  },
+  "psychiatry": {
+   "tests": 10,
+   "questions": 614
+  },
+  "radiology": {
+   "tests": 9,
+   "questions": 571
+  },
+  "orthopedics": {
+   "tests": 12,
+   "questions": 568
+  },
+  "hematology": {
+   "tests": 7,
+   "questions": 557
+  },
+  "anesthesia": {
+   "tests": 9,
+   "questions": 509
+  },
+  "endocrine": {
+   "tests": 8,
+   "questions": 470
+  },
+  "respiratory": {
+   "tests": 10,
+   "questions": 449
+  },
+  "renal": {
+   "tests": 8,
+   "questions": 430
+  },
+  "gi": {
+   "tests": 11,
+   "questions": 342
+  },
+  "rheumatology": {
+   "tests": 8,
+   "questions": 283
+  },
+  "immunology": {
+   "tests": 6,
+   "questions": 177
+  }
+ },
+ "source_bytes": 49979268,
+ "source_md5": "560fb4e9816eb7522d857652f362aebc",
+ "jsonl_bytes": 11213208
+}

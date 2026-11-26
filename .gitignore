@@ -1,0 +1,7 @@
+# Derived artifacts - regenerate with the scripts in export/
+# The QBank is the single self-contained file index.html; nothing else is needed
+# to run it.
+/export/tests_list.json
+/export/qbank.jsonl
+/CoreBTR-QBank.s3.html
+/CoreBTR-QBank.proxy.html
